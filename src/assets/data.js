@@ -3,7 +3,7 @@ export const data = [
       question: "Which of the following is a sensory organ?",
       option1: "Heart",
       option2: "Skin",
-      option3: "you!",
+      option3: "you 🫵🏽 !",
       option4: "Liver",
       ans: 3,
     },
