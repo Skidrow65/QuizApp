@@ -16,7 +16,7 @@ export const data = [
       ans: 4,
     },
     {
-      question: "What special structures are found in sesory organs to react to stimuli?",
+      question: "What special structures are found in sensory organs to react to stimuli?",
       option1: "Your face",
       option2: "Nerve impulses",
       option3: "Fists",
