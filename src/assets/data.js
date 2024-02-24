@@ -52,8 +52,8 @@ export const data = [
       option1: "Yes",
       option2: "Definetly",
       option3: "Affirmative",
-      option4: "Absolutely",
-      ans: 3,
+      option4: "I made them up",
+      ans: 4,
     },
     {
       question: "What is the greatest tv show produced?",
