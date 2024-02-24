@@ -16,12 +16,12 @@ export const data = [
       ans: 4,
     },
     {
-      question: "What special structures are found in sesory organs to detect stimuli?",
+      question: "What special structures are found in sesory organs to react to stimuli?",
       option1: "Your face",
       option2: "Nerve impulses",
       option3: "Fists",
       option4: "Olfactory cells",
-      ans: 1,
+      ans: 3,
     },
     {
       question: "Who is the greatest football player?",
@@ -29,7 +29,7 @@ export const data = [
       option2: "John Ohm",
       option3: "Lionel Mouse",
       option4: "Ricardo Quaresma",
-      ans: 1,
+      ans: 2,
     },
     {
       question: "Most receptors in the skin are in the?",
@@ -44,7 +44,7 @@ export const data = [
       option1: "Increase",
       option2: "Decrease",
       option3: "Stay constant",
-      option4: "Fuck wold i know",
+      option4: "Fuck would i know",
       ans: 1,
     },
     {
@@ -96,7 +96,7 @@ export const data = [
       ans: 3,
     },
     {
-      question: "Who is the greates 3 point shooter?",
+      question: "Who is the greatest 3 point shooter?",
       option1: "Stephen Curry",
       option2: "sabrina",
       option3: "John Ohm",
