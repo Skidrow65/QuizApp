@@ -3,7 +3,7 @@ export const data = [
       question: "Which of the following is a sensory organ?",
       option1: "Heart",
       option2: "Skin",
-      option3: "You!",
+      option3: "you!",
       option4: "Liver",
       ans: 3,
     },
@@ -29,7 +29,7 @@ export const data = [
       option2: "John Ohm",
       option3: "Lionel Mouse",
       option4: "Ricardo Quaresma",
-      ans: 2,
+      ans: 1,
     },
     {
       question: "Most receptors in the skin are in the?",
@@ -76,8 +76,8 @@ export const data = [
       option1: "2016 BMW 4GranCoupe",
       option2: "2024 BMW i5",
       option3: "2010 BMW E60 M5",
-      option4: "You have no money",
-      ans: 1,
+      option4: "You have no money😂",
+      ans: 4,
     },
     {
       question: "who would you marry?",
