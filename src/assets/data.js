@@ -73,7 +73,7 @@ export const data = [
     },
     {
       question: "What version of BMW would you buy?",
-      option1: "2016 BMW 4 series GranCoupe sport",
+      option1: "2016 BMW 4GranCoupe",
       option2: "2024 BMW i5",
       option3: "2010 BMW E60 M5",
       option4: "You have no money",
