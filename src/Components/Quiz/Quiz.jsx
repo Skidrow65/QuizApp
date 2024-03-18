@@ -59,7 +59,7 @@ const reset = () => {
 
   return (
     <div className='container'>
-        <h1>Quiz App</h1>
+        <h1>Physics-Quiz</h1>
       <hr />
       {result?<></>:<>
       <h2>{index+1}. {question.question}</h2>
@@ -73,7 +73,7 @@ const reset = () => {
       <div className='index'>{index+1} of {data.length} questions</div>
       </>}
       {result?<>
-        <h2>Bismillah you have scored {score} out of {data.length} </h2>
+        <h2>You have scored {score} out of {data.length} </h2>
       <button onClick={reset}>Reset</button>
       </>:<></>}
       
