@@ -24,6 +24,14 @@ export const data = [
       ans: 2,
     },
     {
+      question: "who among the following is not a founding father of physics",
+      option1: "Isaac Newton",
+      option2: "Galileo Galilei",
+      option3: "John Ohm Bagonza",
+      option4: "Carl max",
+      ans: 3,
+    },
+    {
       question: "which is a fact about density?",
       option1: "its mass per unit volume",
       option2: "it varies on different objects",
