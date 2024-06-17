@@ -20,7 +20,7 @@ export const data = [
       option1: "t(wavelength)",
       option2: "1/T",
       option3: "T/wavelength.",
-      option4: "mass/volume",
+      option4: "mass/volume.",
       ans: 2,
     },
     {
