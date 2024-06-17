@@ -4,7 +4,7 @@ export const data = [
       option1: "Like poles repel",
       option2: "Unlike poles attract",
       option3: "magnetic force is most concentrated at the poles",
-      option4: "magnets can be made of any material",
+      option4: "magnets can be made of any material.",
       ans: 4,
     },
     {
@@ -12,7 +12,7 @@ export const data = [
       option1: "F=m x a",
       option2: "speed=distace/time",
       option3: "velocity=speed",
-      option4: "displacement=distance",
+      option4: "displacement=distance.",
       ans: 4,
     },
     {
