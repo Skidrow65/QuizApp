@@ -42,8 +42,8 @@ export const data = [
     {
       question: "Which does not affect the spring constant?",
       option1: "Diameter of the wire",
-      option2: "Material of the spring",
-      option3: "Length of the spring",
+      option2: "Material of the spring.",
+      option3: "Length of the spring.",
       option4: "Mass of the spring",
       ans: 4,
     },
