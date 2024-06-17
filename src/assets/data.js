@@ -10,7 +10,7 @@ export const data = [
     {
       question: "Which of the following is not true?",
       option1: "F=m x a",
-      option2: "speed=distace/time",
+      option2: "speed=distace/time.",
       option3: "velocity=speed.",
       option4: "displacement=distance.",
       ans: 4,
