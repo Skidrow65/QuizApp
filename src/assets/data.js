@@ -36,7 +36,7 @@ export const data = [
       option1: "its mass per unit volume",
       option2: "it varies on different objects",
       option3: "solids are denser compared to other states of matter",
-      option4: "All of the above",
+      option4: "All of the above.",
       ans: 4,
     },
     {
