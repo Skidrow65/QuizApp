@@ -18,7 +18,7 @@ export const data = [
     {
       question: "What best defines frequency?",
       option1: "t(wavelength)",
-      option2: "1/ t",
+      option2: "1/T.",
       option3: "T/wavelength.",
       option4: "mass/volume.",
       ans: 2,
