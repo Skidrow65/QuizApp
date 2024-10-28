@@ -9,7 +9,7 @@ export const data = [
     },
     {
       question: "Which of the following is not true?",
-      option1: "F=m x a",
+      option1: "F= m x a",
       option2: "speed=distace/time.",
       option3: "velocity=speed.",
       option4: "displacement=distance.",
@@ -18,7 +18,7 @@ export const data = [
     {
       question: "What best defines frequency?",
       option1: "t(wavelength)",
-      option2: "1/T",
+      option2: "1/ t",
       option3: "T/wavelength.",
       option4: "mass/volume.",
       ans: 2,
@@ -27,7 +27,7 @@ export const data = [
       question: "who among the following is not a founding father of physics",
       option1: "Isaac Newton",
       option2: "Galileo Galilei.",
-      option3: "squidward.",
+      option3: "james lebron.",
       option4: "Carl max",
       ans: 3,
     },
@@ -36,7 +36,7 @@ export const data = [
       option1: "its mass per unit volume",
       option2: "it varies on different objects",
       option3: "solids are denser compared to other states of matter",
-      option4: "All of the above.",
+      option4: "All of the above ",
       ans: 4,
     },
     {
