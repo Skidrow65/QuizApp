@@ -1,4 +1,4 @@
-export const data = [
+⁷export const data = [
     {
       question: "Which of the following is not a property of magnets?",
       option1: "Like poles repel.",
@@ -26,7 +26,7 @@ export const data = [
     {
       question: "who among the following is not a founding father of physics",
       option1: "Isaac Newton",
-      option2: "Galileo Galilei.",
+      option2: "Galileo Galilei",
       option3: "james lebron",
       option4: "Carl max",
       ans: 3,
