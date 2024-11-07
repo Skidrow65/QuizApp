@@ -27,7 +27,7 @@ export const data = [
       question: "who among the following is not a founding father of physics",
       option1: "Isaac Newton",
       option2: "Galileo Galilei.",
-      option3: "james lebron.",
+      option3: "james lebron",
       option4: "Carl max",
       ans: 3,
     },
